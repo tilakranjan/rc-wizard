@@ -2,7 +2,6 @@
 ---
 
 forked from and updated version of: https://github.com/xuqingkuang/rc-wizard
-React Wizard Component
 
 
 [![NPM version][npm-image]][npm-url]
