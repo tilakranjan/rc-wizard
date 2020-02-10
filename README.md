@@ -32,7 +32,7 @@ online example: http://xuqingkuang.github.io/rc-wizard/
 ## install
 
 
-[![rc-wizard](https://nodei.co/npm/rc-wizard.png)](https://npmjs.org/package/rc-wizard)
+[![rc-wizard-2](https://nodei.co/npm/rc-wizard-2.png)](https://npmjs.org/package/rc-wizard-2)
 
 
 ## Usage
