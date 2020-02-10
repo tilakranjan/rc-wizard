@@ -1,6 +1,7 @@
 # rc-wizard-2
 ---
 
+forked from and updated version of: https://github.com/xuqingkuang/rc-wizard
 React Wizard Component
 
 
