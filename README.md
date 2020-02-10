@@ -1,4 +1,4 @@
-# rc-wizard
+# rc-wizard-2
 ---
 
 React Wizard Component
